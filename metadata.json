@@ -1,0 +1,6 @@
+{
+  "name": "DOCE - Compañero de Estudio y Acompañamiento IFTS 12",
+  "description": "DOCE: Data Orientado Compañero de Estudio. Núcleo pedagógico DOC, 7 pantallas de la plataforma, arquitectura UML de 11 clases en Python y dashboard institucional de alerta temprana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
